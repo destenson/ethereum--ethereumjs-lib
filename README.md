@@ -5,12 +5,12 @@ SYNOPSIS
 
 A Javascript library of core [Ethereum](http://Ethereum.org) functions as described in the [Yellow Paper](https://github.com/ethereum/yellowpaper). This is a simple meta-module that provides the following modules.
 
- - [VM](https://github.com/ethereum/ethereumjs-vm) - The Ethereum vitural machine and state processing functions
- - [Blockchain](https://github.com/ethereum/ethereumjs-blockchain) - Blockchain managment
+ - [VM](https://github.com/ethereum/ethereumjs-vm) - The Ethereum virtual machine and state processing functions
+ - [Blockchain](https://github.com/ethereum/ethereumjs-blockchain) - Blockchain management
  - [Block](https://github.com/ethereum/ethereumjs-block) - Block Schema definition and validation
  - [Transaction](https://github.com/ethereum/ethereumjs-tx) - Transaction Schema definition and validation
  - [Account](https://github.com/ethereum/ethereumjs-account) - Account Schema definition and validation
- - [rlp](https://github.com/wanderer/rlp) - Recusive Length Prefix serialization
+ - [rlp](https://github.com/wanderer/rlp) - Recursive Length Prefix serialization
  - [Trie](https://github.com/wanderer/merkle-patricia-tree) - Modified Merkle Patricia Tree
  - [Ethash](https://github.com/ethereum/ethashjs) - Ethereum's Proof of Work algorithm
  - [utils](https://github.com/ethereum/ethereumjs-util) - Miscellaneous helper functions
