@@ -15,8 +15,8 @@
     "library"
   ],
   "dependencies": {
-    "devp2p": "^0.0.4",
-    "devp2p-dpt": "^0.0.4",
+    "devp2p": "^0.0.5",
+    "devp2p-dpt": "^1.0.1",
     "ethashjs": "^0.0.5",
     "ethereumjs-account": "^1.0.5",
     "ethereumjs-block": "^1.0.4",
