@@ -29,16 +29,8 @@ passing all of them.
 If you would like to contribute, but don't know what to work on, check
 the issues list or ask on the forms or on IRC.
 
-* [issues](http://github.com/ethereum/ethereumjs-lib/issues)
-* [forum](https://forum.ethereum.org/categories/node-ethereum)
+* [issues](http://github.com/ethereumjs/ethereumjs-lib/issues)
 
-
-# BUGS
-
-When you find issues, please report them:
-
-* [web](http://github.com/ethereum/ethereumjs-tools/issues)
-* [email](mailto:mb@ethdev.com)
 
 # LICENSE
 [MPL-2.0](https://tldrlegal.com/license/mozilla-public-license-2.0-(mpl-2))
