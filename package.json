@@ -17,13 +17,13 @@
   "dependencies": {
     "devp2p": "^0.0.5",
     "devp2p-dpt": "^1.0.1",
-    "ethashjs": "^0.0.6",
+    "ethashjs": "^0.0.7",
     "ethereumjs-account": "^2.0.1",
     "ethereumjs-block": "^1.2.1",
     "ethereumjs-blockchain": "^1.4.0",
-    "ethereumjs-tx": "^0.7.1",
-    "ethereumjs-util": "^3.0.0",
-    "ethereumjs-vm": "^1.1.0",
+    "ethereumjs-tx": "^1.1.1",
+    "ethereumjs-util": "^4.0.0",
+    "ethereumjs-vm": "^1.2.0",
     "merkle-patricia-tree": "^2.1.0"
   },
   "author": {
